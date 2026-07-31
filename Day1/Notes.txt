@@ -1,1 +1,140 @@
+ Java Learning Journey
 
+Welcome to my Java learning repository! 🚀  
+This repository documents my progress as I learn Java from the basics to advanced concepts. I'll update it regularly with notes, examples, and practice programs.
+
+---
+Progress
+
+### ✅ Day 1 - Java Basics
+
+Today I learned the following concepts:
+
+### 1. Data Types
+Java provides different data types to store different kinds of values.
+
+#### Primitive Data Types
+| Data Type | Size | Example |
+|-----------|------|---------|
+| `byte` | 1 byte | 100 |
+| `short` | 2 bytes | 20000 |
+| `int` | 4 bytes | 123456 |
+| `long` | 8 bytes | 123456789L |
+| `float` | 4 bytes | 3.14f |
+| `double` | 8 bytes | 3.14159265 |
+| `char` | 2 bytes | 'A' |
+| `boolean` | 1 bit | true / false |
+
+---
+
+###  2. Variables
+Variables are used to store data in memory.
+
+#### Example
+```java
+int age = 20;
+double salary = 50000.50;
+char grade = 'A';
+boolean isStudent = true;
+```
+
+---
+
+###  3. Operators
+Operators perform operations on variables and values.
+
+#### Arithmetic Operators
+```java
++   Addition
+-   Subtraction
+*   Multiplication
+/   Division
+%   Modulus
+```
+
+#### Comparison Operators
+```java
+==
+!=
+>
+<
+>=
+<=
+```
+
+#### Logical Operators
+```java
+&&
+||
+!
+```
+
+#### Assignment Operators
+```java
+=
++=
+-=
+*=
+/=
+```
+
+---
+
+###  4. Input Statements
+Java accepts user input using the `Scanner` class.
+
+
+## 🛠 Practice Programs
+- Print "Hello, World!"
+- Declare variables of different data types
+- Perform arithmetic operations
+- Take user input using `Scanner`
+- Calculate the sum of two numbers
+
+---
+
+##  Learning Goals
+- Understand Java syntax
+- Build problem-solving skills
+- Learn Object-Oriented Programming (OOP)
+- Practice Data Structures & Algorithms (DSA)
+- Develop Java projects
+
+---
+
+##  Resources
+- Oracle Java Documentation
+- W3Schools Java Tutorial
+- GeeksforGeeks Java
+- JavaTPoint
+
+---
+
+##  Upcoming Topics
+- Conditional Statements (`if`, `else`, `switch`)
+- Loops (`for`, `while`, `do-while`)
+- Methods
+- Arrays
+- Strings
+
+---
+
+### ⭐ Progress Tracker
+
+- [x] Data Types
+- [x] Variables
+- [x] Operators
+- [x] Input Statements
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Methods
+- [ ] Arrays
+- [ ] Strings
+- [ ] Object-Oriented Programming
+- [ ] Exception Handling
+- [ ] Collections Framework
+
+---
+
+> **Day 1 Completed ✅**  
+> Looking forward to learning more Java every day! ☕
