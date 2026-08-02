@@ -1,0 +1,11 @@
+Java if Statement Notes
+1. Definition
+
+The if statement is the simplest decision-making statement in Java.
+ It executes a block of code only if the specified condition is true.
+  If the condition is false, the block is skipped.
+
+  ==========================Syntax========================================
+  if (condition) {
+    // Statements to execute if condition is true
+}
