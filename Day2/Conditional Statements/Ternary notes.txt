@@ -1,0 +1,9 @@
+Java Ternary Operator (?:) Notes
+1. Definition
+The ternary operator (?:) is a conditional operator used to replace simple if-else statements. It evaluates a condition and returns one of two values.
+
+Syntax
+condition ? expression1 : expression2;
+condition → A boolean expression (true or false)
+expression1 → Executed if the condition is true
+expression2 → Executed if the condition is false
