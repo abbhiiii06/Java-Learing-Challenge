@@ -1,0 +1,23 @@
+Java switch Statement Notes
+1. Definition
+
+The switch statement is a decision-making control statement used to execute one block of code from multiple alternatives based on the value of an expression.
+
+It is an alternative to writing multiple if-else if statements when comparing a single variable against different constant values.
+================Syntax======================
+switch (expression) {
+    case value1:
+        // Statements
+        break;
+
+    case value2:
+        // Statements
+        break;
+
+    case value3:
+        // Statements
+        break;
+
+    default:
+        // Default statements
+}
